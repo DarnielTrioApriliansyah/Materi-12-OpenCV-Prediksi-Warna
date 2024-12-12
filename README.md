@@ -1,1 +1,0 @@
-# Materi-12-OpenCV-Prediksi-Warna
